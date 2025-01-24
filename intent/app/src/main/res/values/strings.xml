@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="Language">Choose the Language</string>
+<string name="welcome_google">Welcome to Google</string>
+<string name="welcome_newpage">Welcome to new page</string>
+<string name="enter_url">Enter URL</string>
+<string name="select_language">Select Language</string>
+<string name="language_english">English</string>
+<string name="language_spanish">Spanish</string>
+</resources>
